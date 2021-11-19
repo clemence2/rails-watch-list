@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_2c17bc1b-81cc-4e3c-9a3d-cce7174036f2",
+      "org_id": "user_e88297ca-8e50-4178-af15-eb16278de413",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_2c17bc1b-81cc-4e3c-9a3d-cce7174036f2.git",
+      "name": "rails-watch-list",
+      "alias": "rails-watch-list"
+    }
+  ]
+}
